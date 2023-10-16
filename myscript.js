@@ -1,7 +1,7 @@
-const wrapper = document.querySelector('.wrapper');
-const question = document.querySelector('.question');
-const yesBtn = document.querySelector('.yes_btn');
-const noBtn = document.querySelector('.no_btn');
+const wrapper = document.querySelector(".wrapper");
+const question = document.querySelector(".question");
+const yesBtn = document.querySelector(".yes_btn");
+const noBtn = document.querySelector(".no_btn");
 
 const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
