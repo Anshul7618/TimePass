@@ -1,7 +1,7 @@
 const wrapper = document.queryselector('.wrapper');
 const question = document.queryselector('.question');
 const yesBtn = document.queryselector('.yes_btn');
-const noBtn = document.queryselector('no_btn');
+const noBtn = document.queryselector('.no_btn');
 
 const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
