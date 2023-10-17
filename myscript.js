@@ -10,7 +10,7 @@ yesBtn.addEventListener('click', () => {
 question.innerHTML = 'I Love You Too :)';
 });
 
-noBtn.addEventListener('click', () => {
+noBtn.addEventListener('Mouseover', () => {
 const i = Math.floor(Math.random() * (wrapperRect.width - noBtnRect.width)) + 1;
 const j = Math.floor(Math.random() * (wrapperRect.height - noBtnRect.height)) + 1;
 
